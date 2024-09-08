@@ -1,0 +1,16 @@
+# For working with emails (using Gmail in this example)
+yagmail==0.18.0
+# Alternatively, you can use other email libraries depending on your email service provider
+
+# For interacting with Google APIs
+google-api-python-client==2.73.0
+google-auth==2.23.0
+google-auth-oauthlib==0.7.1
+google-auth-httplib2==0.1.0
+
+# For handling Excel files
+pandas==2.1.0
+openpyxl==3.1.2
+
+# For general utilities and debugging
+requests==2.31.0
