@@ -18,7 +18,7 @@ This file contains sample user data in Excel format to demonstrate the structure
 ### Using the Sample Data
 
 1. **Download the Dataset:**
-   The `sample_users.xlsx` file is located in the `data/` directory of the project.
+   The `PasswordResetData.xlsx` file is located in the `data/` directory of the project.
 
 2. **Place Your Data:**
    If you need to test with your data, replace the sample file with your own Excel file formatted similarly.
