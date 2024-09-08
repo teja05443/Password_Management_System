@@ -1,5 +1,4 @@
 # Password_Management_System
-# Password Management System
 
 This project features a bot designed to automate the process of handling password reset requests through a two-stage process: Dispatcher and Performer.
 
