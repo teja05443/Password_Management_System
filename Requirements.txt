@@ -14,3 +14,8 @@ openpyxl==3.1.2
 
 # For general utilities and debugging
 requests==2.31.0
+
+yagmail: Provides a simple interface for sending emails using Gmail. If you use a different email provider, you can replace yagmail with a suitable library like smtplib (Python’s built-in library) or another email library.
+google-api-python-client, google-auth, google-auth-oauthlib, google-auth-httplib2: Required for interacting with Google APIs.
+pandas, openpyxl: For handling Excel files.
+requests: For making HTTP requests, useful for additional functionality or debugging
